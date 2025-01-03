@@ -17,7 +17,7 @@ Maze Generation: A new maze is generated using recursive backtracking, ensuring 
 Reinforcement Learning: The agent trains itself over multiple episodes to learn the optimal path to the goal.
 Visualization: The canvas dynamically updates to show the agent's movements and progress.
 1)Clone the repository:
-git clone https://github.com/yourusername/maze-solver-ai.git
+git clone https://github.com/AlainBx20/AI-Maze.git
 2)Navigate to the project directory:
 cd maze-solver-ai
 3)Open the index.html file in your browser to run the simulation.
