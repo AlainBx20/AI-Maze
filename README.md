@@ -18,15 +18,17 @@ Reinforcement Learning: The agent trains itself over multiple episodes to learn 
 Visualization: The canvas dynamically updates to show the agent's movements and progress.
 
 
-1)Clone the repository:
-git clone https://github.com/AlainBx20/AI-Maze.git
+1) Clone the repository:
+git clone:
+
+https://github.com/AlainBx20/AI-Maze.git
 
 
-2)Navigate to the project directory:
+3) Navigate to the project directory:
 cd AI-Maze
 
 
-3)Open the index.html file in your browser to run the simulation.
+4) Open the index.html file in your browser to run the simulation.
 
 Usage
 Generate Maze: Click the "Generate Maze" button to create a new maze.
