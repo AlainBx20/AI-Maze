@@ -21,7 +21,7 @@ Visualization: The canvas dynamically updates to show the agent's movements and 
 1) Clone the repository:
 git clone:
 
-                                                                      https://github.com/AlainBx20/AI-Maze.git
+                                       https://github.com/AlainBx20/AI-Maze.git
 
 
 3) Navigate to the project directory:
