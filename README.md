@@ -9,9 +9,13 @@ Interactive Controls: Buttons to generate new mazes and start the simulation.
 Goal-Oriented Learning: The agent receives rewards for reaching the green goal.
 Penalties for Failure: Optional penalties can be implemented for hitting walls or obstacles.
 Technologies Used
+
 HTML: Structure of the web application.
+
 CSS: Modern and visually appealing styling.
+
 JavaScript: Core logic for maze generation, reinforcement learning, and visualization.
+
 How It Works
 Maze Generation: A new maze is generated using recursive backtracking, ensuring a solvable path from start to goal.
 Reinforcement Learning: The agent trains itself over multiple episodes to learn the optimal path to the goal.
