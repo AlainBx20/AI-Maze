@@ -35,5 +35,4 @@ Contact
 For questions or feedback, feel free to contact me:
 
 Email: alaachuikhaa@gmail.com
-LinkedIn: Alaa Ben Chouikha
-GitHub: Alaa Ben Chouikha
+
